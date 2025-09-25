@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lock Screen Demo</string>
+    <string name="permission_title">Permissions Required</string>
+    <string name="permission_description">This app needs the following permissions to demonstrate its features:</string>
+    <string name="permission_internet">Internet: For potential demo features (optional)</string>
+    <string name="permission_wake_lock">Wake Lock: To keep screen awake during PIN entry</string>
+    <string name="permission_vibrate">Vibrate: For haptic feedback on PIN keypad</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="permissions_denied">Permissions Required</string>
+    <string name="permissions_denied_message">This demo requires the requested permissions to function properly. Please grant them to continue.</string>
+    <string name="try_again">Try Again</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="incorrect_pin">Incorrect PIN. Try again.</string>
+    <string name="demo_notice">Demo Lock Screen</string>
+    <string name="demo_notice_detail">This is a demonstration lock screen for educational purposes only. It does not provide system-level security. You can still use your device power button to lock the screen normally.</string>
+    <string name="pin_success">PIN Correct!</string>
+    <string name="pin_success_message">Demo completed successfully. Thank you for trying this app!</string>
+    <string name="exit">Exit</string>
+</resources>
